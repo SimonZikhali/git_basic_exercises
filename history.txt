@@ -1,0 +1,1000 @@
+ 1005  git push -u origin master
+ 1006  ls
+ 1007  git push -u origin master
+ 1008  git@github.com: Permission denied (publickey).
+ 1009  git push -u origin master
+ 1010  git init
+ 1011  git add .
+ 1012  git status
+ 1013  git remote add origin git@github.com:SimonZikhali/consume-github-api.git
+ 1014  git push -u origin master
+ 1015  echo "# consume-github-api" >> README.md
+ 1016  git init
+ 1017  git add .
+ 1018  git status
+ 1019  git reset
+ 1020  git status
+ 1021  "git add" and/or "git commit -a
+ 1022   
+ 1023  node api.js 
+ 1024  node api.js 
+ 1025  node api.js 
+ 1026  node api.js 
+ 1027  git init
+ 1028  git add .
+ 1029  git status
+ 1030  ls
+ 1031  mkdir github
+ 1032  cd github/
+ 1033  ls
+ 1034  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1035  clear
+ 1036  ls
+ 1037  ls -la
+ 1038  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1039  ls
+ 1040  cd Simon-Zikhali-266-string-calculator/
+ 1041  ls
+ 1042  ls -la
+ 1043  git status
+ 1044  ls -la
+ 1045  git checout -b simon
+ 1046  git checkout -b simon
+ 1047  git branch
+ 1048  ls -la
+ 1049  git status
+ 1050  git add .
+ 1051  git push origin simon 
+ 1052  git push
+ 1053  git status
+ 1054  git commit -m "added specs"
+ 1055  git push
+ 1056  ls -la
+ 1057  npm test
+ 1058  node
+ 1059  ls
+ 1060  cd github/
+ 1061  git clone https://github.com/SimonZikhali/katas-program.git
+ 1062  ls 
+ 1063  cd katas-program/
+ 1064  ls -la
+ 1065  ls
+ 1066  git status
+ 1067  git add .
+ 1068  git commit -m "inital commit"
+ 1069  git push
+ 1070  node api.js 
+ 1071  clear
+ 1072  node api.js 
+ 1073  git clonegit@github.com:Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1074  ls -la
+ 1075  git checkout -b simon
+ 1076  git push origin simon
+ 1077  git push
+ 1078  git push --set-upstream origin simon
+ 1079  git status
+ 1080  git add .
+ 1081  gti clone git@github.com:Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1082  git clone git@github.com:Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1083  ls -la
+ 1084  git checkout -b simon
+ 1085  git push origin simon
+ 1086  clear
+ 1087  git checkout -b simoni
+ 1088  cd Desktop
+ 1089  cd string_calculator
+ 1090  ls
+ 1091  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1092  ls -la
+ 1093  git checkout - b string_calculator
+ 1094  git clone git@github.com:Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1095  la -la
+ 1096  git checkout -b simon
+ 1097  git push origin simon
+ 1098  clear
+ 1099  node api.js 
+ 1100  clear
+ 1101  node api.js 
+ 1102  clear
+ 1103  node api.js 
+ 1104  clear
+ 1105  node api.js 
+ 1106  echo "# git-basic-exercise" >> README.md
+ 1107  git init
+ 1108  git add README.md
+ 1109  git commit -m "first commit"
+ 1110  ls -la
+ 1111  git remote add origin git@github.com:SimonZikhali/git-basic-exercise.git
+ 1112  git push -u origin master
+ 1113  git push
+ 1114  git clone git@github.com:SimonZikhali/git-basic-exercises.git
+ 1115  ls -la
+ 1116  cd Desktop
+ 1117  cd git-basic-exercise
+ 1118  git clone git@github.com:SimonZikhali/git-basic-exercises.git
+ 1119  ls -la
+ 1120  git checkout -b git-basic-exercise
+ 1121  git push origin git-basic-exercise
+ 1122  git status
+ 1123  git add .
+ 1124  git commit -m "resubmitting"
+ 1125  git push
+ 1126  git push --set-upstream origin git-basic-exercise
+ 1127  git push
+ 1128  cd Desktop
+ 1129  cd string_calculator
+ 1130  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1131  cd Desktop
+ 1132  cd string_calculator
+ 1133  clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1134  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1135  la -la
+ 1136  git checkout -b string_calculator
+ 1137  git push origin string_calculator
+ 1138  git add . && git commit -m "added speces" && git push
+ 1139  npm test
+ 1140  git status
+ 1141  git add .
+ 1142  git commit -m "fix "
+ 1143  git push
+ 1144  git branch
+ 1145  git push
+ 1146  git status
+ 1147  git pull
+ 1148  clear
+ 1149  git branc
+ 1150  git branch
+ 1151  git checkout -b simon
+ 1152  ls
+ 1153  git status
+ 1154  git pull
+ 1155  git fetch
+ 1156  git push -u 
+ 1157  git pull
+ 1158  cd Desktop
+ 1159  cd string_calculator
+ 1160  npm test
+ 1161  node string_calculator.js
+ 1162  cd src
+ 1163  node string_calculator_src.js 
+ 1164  node api.js 
+ 1165  clear
+ 1166  node api.js 
+ 1167  npm test
+ 1168  git clone git@github.com:Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1169  ls -la
+ 1170  cd Desktop
+ 1171  cd github
+ 1172  ls
+ 1173  cd string_calculator/
+ 1174  ls -la
+ 1175  git checkout -b simonzikhali
+ 1176  git push origin simonzikhali
+ 1177  ls
+ 1178  git push origin simon
+ 1179  git clone git@github.com:Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1180  ls -la
+ 1181  git checjout -b simon
+ 1182  git checkout -b simon
+ 1183  git push origin simon
+ 1184  ls
+ 1185  git push
+ 1186  git status
+ 1187  git add .
+ 1188  git checkout -b simon
+ 1189  git add .
+ 1190  git commit -m "fix specs"
+ 1191  ls
+ 1192  git push
+ 1193  git clone /home/recruit/Desktop/string_calculator/node_modules
+ 1194  /home/recruit/Desktop/string_calculator/src
+ 1195  /home/recruit/Desktop/string_calculator/spec
+ 1196  /home/recruit/Desktop/string_calculator/package.json
+ 1197  ls
+ 1198  git checkout -b simon
+ 1199  git push origin simon
+ 1200  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1201  git push
+ 1202  git pull
+ 1203  git add . && git commit -m "fix specs"
+ 1204  git push
+ 1205  node api.js 
+ 1206  clear
+ 1207  node api.js 
+ 1208  clear
+ 1209  node api.js 
+ 1210  node api.js 
+ 1211  clear
+ 1212  git clone git@github.com:Umuzi-org/Simon-Zikhali-186-consume-github-api.git
+ 1213  node api.js
+ 1214  node api.js 
+ 1215  node api.js 
+ 1216  clear
+ 1217  node api.js 
+ 1218  clear
+ 1219  node api.js 
+ 1220  node sololearn.js 
+ 1221  cd sololern.js
+ 1222  cd sololearn.js
+ 1223  clear
+ 1224  npm test
+ 1225  node kata-program.js 
+ 1226  sudo apt update
+ 1227  sudo apt upgrade
+ 1228  sudo apt update
+ 1229  sudo apt upgrade
+ 1230  sudo apt update
+ 1231  sudo apt upgrade
+ 1232  }
+ 1233  function word(){  for(var i )
+ 1234  }
+ 1235  function string(num){
+ 1236  for(let i = 0;i< string)
+ 1237  }
+ 1238  function larger(f,g){
+ 1239  }
+ 1240  console.log
+ 1241  function objects(obj){
+ 1242  }
+ 1243  function  filterArray(arr){
+ 1244  }
+ 1245  <html>
+ 1246  <head>
+ 1247  <meta charset=utf-8 />
+ 1248  <title>JS DOM paragraph style</title>
+ 1249  </head> 
+ 1250  <body>
+ 1251  <p id ='text'>JavaScript Exercises - w3resource</p> 
+ 1252  <div>
+ 1253  <button id="jsstyle"
+ 1254  onclick="js_style()">Style</button>
+ 1255  </div>
+ 1256  </body>
+ 1257  node bridging\ one\ on\ one.js 
+ 1258  clear
+ 1259  node bridging\ one\ on\ one.js 
+ 1260  git clone git@github.com:Anda2000/Bridging-Course-Group-Work.git
+ 1261  ls la
+ 1262  ls -la
+ 1263  node bridging\ one\ on\ one.js 
+ 1264  clear
+ 1265  node bridging\ one\ on\ one.js 
+ 1266  clear
+ 1267  sudo apt upgrade
+ 1268  sudo apt update
+ 1269  sudo apt upgrade
+ 1270  sudo apt update
+ 1271  sudo apt upgrade
+ 1272  sudo apt update
+ 1273  sudo apt upgrade
+ 1274  sudo apt update
+ 1275  sudo apt upgrade
+ 1276  sudo apt update
+ 1277  sudo apt upgrade
+ 1278  sudo apt update
+ 1279  sudo apt upgrade
+ 1280  sudo apt update
+ 1281  sudo apt upgrade
+ 1282  sudo apt update
+ 1283  sudo apt upgrade
+ 1284  ls
+ 1285  node product-landing-page
+ 1286  ls
+ 1287  node index.html 
+ 1288  node style.css 
+ 1289  clear
+ 1290  node index.html 
+ 1291  clear
+ 1292  node index.html 
+ 1293  clear
+ 1294  node index.html 
+ 1295  clear
+ 1296  node index.html 
+ 1297  clear
+ 1298  node index.html 
+ 1299  cd Deskot
+ 1300  cd Desktop/
+ 1301  ls
+ 1302  cd product-landing-page/
+ 1303  git clone https://github.com/SimonZikhali/product-landing-page.git
+ 1304  ls-la
+ 1305  la -la
+ 1306  git checkout -b product-landing-page/
+ 1307  git checkout -b simon
+ 1308  git checkout -b morefire
+ 1309  git push oridin morefire
+ 1310  git push
+ 1311  ls
+ 1312  cd Desktop
+ 1313  cd product-landing-page
+ 1314  ls
+ 1315  cd product-landing-page/
+ 1316  git init
+ 1317  git add .
+ 1318  git add *
+ 1319  git commit -m "fist commit"
+ 1320  git push -u origin master
+ 1321  git push
+ 1322  git status
+ 1323  ls
+ 1324  cd ..
+ 1325  ls
+ 1326  cd Desktop/
+ 1327  git clone https://github.com/SimonZikhali/portifolio-website.git
+ 1328  ls
+ 1329  cd portifolio-website/
+ 1330  git add -A
+ 1331  git commit -m "fix cv"
+ 1332  git push -u origin master
+ 1333  git init
+ 1334  git add *
+ 1335  git commit -m "first commit"
+ 1336  git push -u origin master
+ 1337  git add README.md
+ 1338  git init
+ 1339  git add README.md
+ 1340  git commit -m "first commit"
+ 1341  git init
+ 1342  git add *
+ 1343  git commit -m "first commit"
+ 1344  ls
+ 1345  git add 
+ 1346  git add *
+ 1347  ls
+ 1348  git commit -m "first commit"
+ 1349  cd Desktop/
+ 1350  ls
+ 1351  cd technical-documentation-page/
+ 1352  git init
+ 1353  git add *
+ 1354  ls
+ 1355  git commit -m "first commit"
+ 1356  ls
+ 1357  git remote add origin https://github.com/SimonZikhali/technical-documentation-page.git
+ 1358  ls
+ 1359  git push -u origin main
+ 1360  git push -u origin master
+ 1361  cd Desktop/
+ 1362  ls
+ 1363  cd Product-Landing-Page/
+ 1364  git init
+ 1365  git add *
+ 1366  cd Desktop/
+ 1367  cd Product-Landing-Page/-
+ 1368  cd Product-Landing-Page
+ 1369  git init
+ 1370  ls
+ 1371  git add *
+ 1372  ls
+ 1373  git commit -m "first commit"
+ 1374  git remote add origin https://github.com/SimonZikhali/Product-Landin-Page.git
+ 1375  git push -u origin master
+ 1376  cd Desktop/
+ 1377  cd survey-form/
+ 1378  git init
+ 1379  git add *
+ 1380  ls
+ 1381  git commit -m "first commit"
+ 1382  git remote add origin https://github.com/SimonZikhali/survey-form.git
+ 1383  git push -u origin master
+ 1384  cd Desktop/
+ 1385  cd tribute-page/
+ 1386  git init
+ 1387  git add *
+ 1388  ls
+ 1389  git commit -m "first commit"
+ 1390  git remote add origin https://github.com/SimonZikhali/tribute-page.git
+ 1391  git push -u origin master
+ 1392  cd Desktop/
+ 1393  sudo apt update
+ 1394  sudo apt upgrade
+ 1395  cd Desktop/
+ 1396  sudo apt update
+ 1397  sudo apt upgrade
+ 1398  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1399  sudo apt update
+ 1400  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+ 1401  qwikLABS-L627-20730703.pem
+ 1402  chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1403  ~/Downloads/qwikLABS-XXXXX.pem
+ 1404  ssh -i ~/Downloads/qwikLABS-XXXXX.pem username@External Ip Address
+ 1405  chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1406  ssh -i ~/Downloads/qwikLABS-XXXXX.pem student-04-d67da32d6394@34.122.2.172
+ 1407  chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1408  ls
+ 1409  cd Desktop/
+ 1410  ls
+ 1411  cd ..
+ 1412  cd Downloads/
+ 1413  ls
+ 1414  cd ..
+ 1415  chmod 600 ~/Downloads/qwikLABS-L627-20740871.pem
+ 1416  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem
+ 1417  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem student-04-d67da32d6394@34.122.2.172
+ 1418  cd Desktop/
+ 1419  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem student-04-d67da32d6394@34.122.2.172
+ 1420  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1421  sudo apt update
+ 1422  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+ 1423  sudo killall remmina
+ 1424  ppa:remmina-ppa-team/remmina-next-daily
+ 1425  echo 'deb http://ftp.debian.org/debian stretch-backports main' | sudo tee --append /etc/apt/sources.list.d/stretch-backports.list >> /dev/null
+ 1426  sudo apt update
+ 1427  ls
+ 1428  cd Downloads/
+ 1429  ls
+ 1430  chmod 600 ~/Downloads/qwikLABS-L627-20740871.pem
+ 1431  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem
+ 1432  qwikLABS-L627-20740871.pem
+ 1433  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem
+ 1434  cd ..
+ 1435  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem student-03-63291374eb5f@35.193.49.217
+ 1436  mkdir my-super-cool-folder
+ 1437  chmod 600 ~/Downloads/qwikLABS-L627-20740871.pem
+ 1438  ssh -i ~/Downloads/qwikLABS-L627-20740871.pem student-03-63291374eb5f@35.193.49.217
+ 1439  clear
+ 1440  cd Downloads/
+ 1441  ls
+ 1442  cd ..
+ 1443  chmod 600 ~/Downloads/qwikLABS-L625-21216802.pem
+ 1444  ssh -i ~/Downloads/qwikLABS-L625-21216802.pem
+ 1445  ssh -1 ~/Downloads/qwikLABS-L625-21216802.pem student-03-632913291374eb5f@35.193.49.217
+ 1446  ssh -i ~/Downloads/qwikLABS-L625-21216802.pem  student-03-63291374eb5f@35.193.49.217
+ 1447  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1448  apt update
+ 1449  apt install remmina remmina-plugin-rdp remmina-plugin-secret
+ 1450  sudo killall remmina
+ 1451  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1452  sudo apt update
+ 1453  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+ 1454  cd Downloads/
+ 1455  ls
+ 1456  cd ..
+ 1457  chmod 600 ~/Downloads/chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1458  chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1459  clear
+ 1460  Cd Downloads/
+ 1461  cd Downloads/
+ 1462  ls
+ 1463  34.123.207.104
+ 1464  mkdir dir_name
+ 1465  mkdir dir1 dir2 dir3
+ 1466  cd /home/user/Documents
+ 1467  chmod 600 ~/Downloads/qwikLABS-L6
+ 1468  cd Downloads/
+ 1469  ls
+ 1470  cd ..
+ 1471  clear
+ 1472  chmod 600 ~/Downloads/ qwikLABS-L640-21288058.pem
+ 1473  cd Downloads/
+ 1474  sudo apt update
+ 1475  sudo apt upgrade
+ 1476  li
+ 1477  ls
+ 1478  sudo apt update
+ 1479  sudo apt upgrade
+ 1480  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+ 1481  sudo apt update
+ 1482  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+ 1483  ls
+ 1484  cd Documents/
+ 1485  ls
+ 1486  chmod 600 ~/Documents/qwikLABS-L632-21383747.pem
+ 1487  ssh -i ~/Documents/qwikLABS-L632-21383747.pem
+ 1488  ssh -i ~/Documents/qwikLABS-L632-21383747.pem student-03-58ee92366470@35.223.141.96
+ 1489  ls
+ 1490  cd Documents/
+ 1491  ls
+ 1492  chmod 600 ~/Documents/qwikLABS-L640-21381560.pem
+ 1493  ssh -i ~/Documents/qwikLABS-L640-21381560.pem student-02-d022ea104a78@34.70.114.128
+ 1494  cd Documents/
+ 1495  ls
+ 1496  chmod 600 ~/Documents/qwikLABS-L634-21389604.pem
+ 1497  ssh -i ~/Documents/qwikLABS-L634-21389604.pem
+ 1498  ssh -i ~/Documents/qwikLABS-L634-21389604.pem student-04-44f3403b118b@104.154.245.79
+ 1499  chmod 600 ~/Documents/qwikLABS-L642-21446878.pem
+ 1500  ssh -i ~/Documents/qwikLABS-L642-21446878.pem student-04-72313be0a22d@34.71.147.41
+ 1501  lsblk
+ 1502  sudo mkfs -t ext4 /dev/[SECOND DRIVE]2
+ 1503  sudo mount /dev/[SECOND DRIVE]2 /home/my_drive
+ 1504  sudo mount /dev/sda2 /my_drive
+ 1505  lsblk
+ 1506  df -h
+ 1507  sudo fdisk -l
+ 1508  sudo fdisk -l /dev/sdb
+ 1509  sudo fdisk -l/dev/sdb
+ 1510  fdisk -l /dev/sda
+ 1511  sudo fdisk -l /dev/sda
+ 1512  sudo fdisk /devsd/sda
+ 1513  sudo fdisk /dev/[SECOND DRIVE]
+ 1514  sudo fdisk /devsd/sda
+ 1515  lsblk
+ 1516  sudo mkfs -t ext4 /dev/sda2
+ 1517  sudo mkfs -t ext4 /dev/[SECOND DRIVE]2
+ 1518  sudo  mkfs.ext4 /dev/sdb1
+ 1519  qwikLABS-L636-21460812.pem
+ 1520  chmod 600 ~/Documents/qwikLABS-L636-21460812.pem
+ 1521  ssh -i ~/Documents/student-00-9a749f610023@35.232.90.141
+ 1522  ps -aux | grep "totally_not_malicious"
+ 1523  sudo kill 14542
+ 1524  ps -aux | grep "totally_not_malicious"
+ 1525  ps -aux | grep "razzle"
+ 1526  sudo kill 14542
+ 1527  sudo kill 14718
+ 1528  sudo apt update
+ 1529  sudo apt upgrade
+ 1530  chmod 600 ~/Documents/chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1531  chmod 600 ~/Downloads/qwikLABS-L642-21494878.pem
+ 1532  chmod 600 ~/Documents/qwikLABS-L642-21494878.pem
+ 1533  ssh -i ~/Documents/qwikLABS-L642-21494878.pem
+ 1534  ssh -i ~/Documents/qwikLABS-L642-21494878.pem student-04-ea328054a59d@34.121.235.219
+ 1535  chmod 600 ~/Documents/qwikLABS-L636-21495171.pem
+ 1536  ssh -i ~/Documents/qwikLABS-L636-21495171.pem student-01-e28796d215d7@35.184.141.18
+ 1537  chmod 600 ~/Documents/qwikLABS-L638-21503626.pem
+ 1538  ssh -i ~/Documents/qwikLABS-L638-21503626.pem student-00-3639b1ad2b9d@35.238.252.140
+ 1539  sudo apt update
+ 1540  sudo apt upgrade
+ 1541  chmod 600 ~/Documents/qwikLABS-L638-21610898.pem
+ 1542  ssh -i ~/Documents/qwikLABS-L638-21610898.pem student-04-b94ba22a76a7@34.122.101.39
+ 1543  sudo apt_not install_f
+ 1544  sudo apt-not install -f
+ 1545  sudo apt-get install -f
+ 1546  sudo apt-nxt install -f
+ 1547  sudo apt-not install -f
+ 1548  sudo apt-nat install -f
+ 1549  sudo apt-get install -f
+ 1550  sudo apt autoremove
+ 1551  dpkg -s vlc
+ 1552  dpkg -a vlc
+ 1553  chmod 600 ~/Downloads/qwikLABS-L638-21630835.pem
+ 1554  chmod 600 ~/Documents/qwikLABS-L638-21630835.pem
+ 1555  ssh -i ~/Documents/qwikLABS-L638-21630835.pem student-00-d803cfba1c0b@34.71.109.47
+ 1556  sudo apt update
+ 1557  sudo apt upgrade
+ 1558  sudo apt update
+ 1559  sudo apt upgrade
+ 1560  sudo apt update
+ 1561  sudo apt upgrade
+ 1562  sudo apt update
+ 1563  sudo apt upgrade
+ 1564  chmod 600 ~/Documents/qwikLABS-L642-21494878.pem
+ 1565  ssh -i ~/Documents/qwikLABS-L642-21494878.pemstudent-03-ce05cb7e99b9@35.193.59.167
+ 1566  ssh -i ~/Documents/qwikLABS-L642-21494878.pem student-03-ce05cb7e99b9@35.193.59.167
+ 1567  chmod 600 ~/Documents/qwikLABS-L642-21494878.pem
+ 1568  ssh -i ~/Documents/qwikLABS-L642-21494878.pem student-03-ce05cb7e99b9@35.188.57.4
+ 1569  chmod 600 ~/Documents/qwikLABS-L1315-22256828.pem
+ 1570  ssh -i ~/Documents/qwikLABS-L1315-22256828.pem student-03-75941f707212@34.72.194.210
+ 1571  chmod 600 ~/Documents/qwikLABS-L1315-22256828.pem
+ 1572  ssh -i ~/Documents/qwikLABS-L1315-22256828.pem student-03-75941f707212@34.72.194.210
+ 1573  chmod 600 ~/Documents/qwikLABS-L1319-22256427.pem
+ 1574  ssh -i ~/Documents/qwikLABS-L1319-22256427.pem
+ 1575  clear
+ 1576  ssh -i ~/Documents/qwikLABS-L1319-22256427.pem
+ 1577  clear
+ 1578  chmod 600 ~/Documents/qwikLABS-L1319-22256427.pem
+ 1579  ssh -i ~/Documents/qwikLABS-L1319-22256427.pem student-01-a4f97f202bca@35.224.75.31
+ 1580  chmod 600 ~/Documents/qwikLABS-L1319-22259215.pem
+ 1581  ssh -i ~/Documents/qwikLABS-L1319-22259215.pem student-00-20aa90cfba8f@34.71.213.78
+ 1582  chmod 600 ~/Documents/qwikLABS-L1318-22258551.pem
+ 1583  ssh -i ~/Documents/qwikLABS-L1318-22258551.pem student-01-b2d944ba78f8@35.232.148.149
+ 1584  sudo apt update
+ 1585  sudo apt upgrate
+ 1586  sudo apt upgrade
+ 1587  chmod 600 ~/Documents/qwikLABS-L630-22292118.pem
+ 1588  ssh -i ~/Documents/qwikLABS-L630-22292118.pem student-02-243121cf7be7@34.71.79.43
+ 1589  sudo apt update
+ 1590  sudo apt upgrade
+ 1591  sudo apt update
+ 1592  sudo apt upgrade
+ 1593  sudo apt update
+ 1594  sudo apt upgrade
+ 1595  sudo apt update
+ 1596  sudo apt upgrade
+ 1597  sudo apt update
+ 1598  sudo apt upgrade
+ 1599  clear
+ 1600  cd git-basic-exercise/
+ 1601  ls
+ 1602  qwikLABS-L2386-23964060.pem
+ 1603  chmod 600 ~/Downloads/qwikLABS-L2386-23964060.pem
+ 1604  chmod 600 ~/Documents/qwikLABS-L2386-23964060.pem
+ 1605  ssh -i ~/Documents/qwikLABS-L2386-23964060.pem student-01-618b7437ecaf@34.69.9.102
+ 1606  nano health_checks.py
+ 1607  chmod 600 ~/Documents/qwikLABS-L2386-23964060.pem
+ 1608  ssh -i ~/Documents/qwikLABS-L2386-23964060.pem
+ 1609  ssh -i ~/Documents/qwikLABS-L2386-23964060.pem student-01-618b7437ecaf@34.69.9.102
+ 1610  chmod 600 ~/Documents/qwikLABS-L2386-23971053.pem
+ 1611  ssh -i ~/Documents/qwikLABS-L2386-23971053.pem student-04-b5ab49cb50df@35.226.179.207
+ 1612  y
+ 1613  cd ~/scripts
+ 1614  nano network.py
+ 1615  sudo apt install python3-requests
+ 1616  cd ~/scripts
+ 1617  nano network.py
+ 1618  sudo apt install python3-requests
+ 1619  y
+ 1620  sudo apt install python3-request
+ 1621  sudo apt install python3-requests
+ 1622  y
+ 1623  cd ~/scripts
+ 1624  nano network.py
+ 1625  nano health_checks.py
+ 1626  sudo  apt update
+ 1627  sudo  apt upgrade
+ 1628  chmod 600 ~/Documents/qwikLABS-L2386-24055441.pem
+ 1629  ssh -i ~/Documents/qwikLABS-L2386-24055441.pem student-02-a8e2b7de3020@34.122.50.17
+ 1630  cd script
+ 1631  ls
+ 1632  chmod 600 ~/Documents/qwikLABS-L2386-24055441.pem
+ 1633  ssh -i ~/Documents/qwikLABS-L2386-24055441.pem student-02-a8e2b7de3020@34.122.50.17
+ 1634  python -m pip install --upgrade pip
+ 1635  python -m pip install psutil
+ 1636  chmod 600 ~/Documents/qwikLABS-L2383-24060564.pem
+ 1637  ssh -i ~/Documents/qwikLABS-L2383-24060564.pem student-01-1208223e09ed@35.193.203.188
+ 1638  chmod 600 ~/Documents/qwikLABS-L2386-24061249.pem
+ 1639  ssh -i ~/Documents/qwikLABS-L2386-24061249.pem student-01-5ec58789a490@34.69.146.121
+ 1640  nano network.py
+ 1641  cd ~/scripts
+ 1642  cd scripts
+ 1643  cd ~/scripts
+ 1644  nano network.py
+ 1645  nano health_checks.py
+ 1646  from network import *
+ 1647  elif check_localhost() and check_connectivity():
+ 1648  ls
+ 1649  clear
+ 1650  chmod 600 ~/Documents/qwikLABS-L2379-24066114.pem
+ 1651  ssh -i ~/Documents/qwikLABS-L2379-24066114.pem student-02-9199d23c3181@35.226.80.55
+ 1652  chmod 600 ~/Documents/qwikLABS-L2383-24068080.pem
+ 1653  ssh -i ~/Documents/qwikLABS-L2383-24068080.pem student-01-b51669e846c7@35.222.43.177
+ 1654  chmod 600 ~/Documents/qwikLABS-L2386-24069920.pem
+ 1655  ssh -i ~/Documents/qwikLABS-L2386-24069920.pem student-02-68ddc3e3198f@34.123.229.182
+ 1656  chmod 600 ~/Documents/qwikLABS-L2386-24069920.pem
+ 1657  ssh -i ~/Documents/qwikLABS-L2386-24069920.pem student-02-68ddc3e3198f@34.123.229.182
+ 1658  sudo apt update
+ 1659  sudo apt upgrade
+ 1660  clear
+ 1661  1.Create a directory named git-basic-exercises
+ 1662  recruit@recruit-Mecer-X102:~$ mkdir git-basic-exercises
+ 1663  recruit@recruit-Mecer-X102:~$ ls
+ 1664  2.cd into your new directory
+ 1665  recruit@recruit-Mecer-X102:~$ cd git-basic-exercises
+ 1666  recruit@recruit-Mecer-X102:~/git-basic-exercises$ 
+ 1667  3.look at what’s inside using ls -a. It should be empty
+ 1668  recruit@recruit-Mecer-X102:~/git-basic-exercises$ ls -a
+ 1669  .  ..
+ 1670  4.initialize your git repo using git init. Then check ls -a again. Can you spot the difference?
+ 1671  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git init
+ 1672  Initialized empty Git repository in /home/recruit/git-basic-exercises/.git/
+ 1673  recruit@recruit-Mecer-X102:~/git-basic-exercises$ ls -a
+ 1674  .  ..  .git
+ 1675  * yes I see the difference of .  ..  .git.
+ 1676  5.check the status of your repo by typing git status
+ 1677  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git statusOn branch master
+ 1678  No commits yet
+ 1679  nothing to commit (create/copy files and use "git add" to track)
+ 1680  6.type in touch README.md. This creates a new blank file. Then check ls -a and git status again.
+ 1681  recruit@recruit-Mecer-X102:~$ touch README.md
+ 1682  recruit@recruit-Mecer-X102:~$ ls
+ 1683  recruit@recruit-Mecer-X102:~$ ls -a
+ 1684  recruit@recruit-Mecer-X102:~$ git status
+ 1685  fatal: not a git repository (or any of the parent directories): .git
+ 1686  7.type in git log. The output should make sense to you
+ 1687  recruit@recruit-Mecer-X102:~$ git log
+ 1688  fatal: not a git repository (or any of the parent directories): .git
+ 1689  8.Now add your readme file to your git staging area. Hint: use the git add command
+ 1690  recruit@recruit-Mecer-X102:~$ git add
+ 1691  fatal: not a git repository (or any of the parent directories): .git
+ 1692  9.Then check your git status again. Can you see the difference?
+ 1693  recruit@recruit-Mecer-X102:~$ git status
+ 1694  fatal: not a git repository (or any of the parent directories): .git
+ 1695  10.Try to unstage your file and check your git status again
+ 1696  11.Ok, now for your first commit: Make sure your readme file is staged then type in git commit -m "initial commit" Your output should be something like this: [master (root-commit) 2103b64] initial commit 1 file changed, 0 insertions(+), 0 deletions(-) create mode 100644 README.m
+ 1697  recruit@recruit-Mecer-X102:~/git-basic-exercises$ echo "# git-basic-exercises" >> README.md
+ 1698  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git init
+ 1699  Reinitialized existing Git repository in /home/recruit/git-basic-exercises/.git/
+ 1700  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git add README.md
+ 1701  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git commit -m "first commit"
+ 1702  [master 7280180] first commit
+ 1703  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git remote add origin https://github.com/SimonZikhali/git-basic-exercises.git
+ 1704  recruit@recruit-Mecer-X102:~/git-basic-exercises$ git push -u origin master
+ 1705  Username for 'https://github.com': SimonZikhali
+ 1706  Password for 'https://SimonZikhali@github.com': 
+ 1707  Counting objects: 6, done.
+ 1708  Delta compression using up to 2 threads.
+ 1709  Compressing objects: 100% (2/2), done.
+ 1710  Writing objects: 100% (6/6), 455 bytes | 455.00 KiB/s, done.
+ 1711  Total 6 (delta 0), reused 0 (delta 0)
+ 1712  To https://github.com/SimonZikhali/git-basic-exercises.git
+ 1713  Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 1714  MORE COMMITS
+ 1715  1,2,3,4 and5. type in nano README.md. This will open up a text editor. Type in some stuff and then press ctrl x to exit. Then y then enter. This will save your changes type in cat README.md. This will print your file to the console
+ 1716  take a look at the git stats again and make sure you understand it
+ 1717  commit your changes to your repo. Your commit should have the message "second commit"
+ 1718  make some more changes to your readme and make a "third commit"
+ 1719  recruit@recruit-Mecer-X102:~$ nano README.md
+ 1720  recruit@recruit-Mecer-X102:~$ cat README.md
+ 1721  morning
+ 1722  recruit@recruit-Mecer-X102:~$ git stats
+ 1723  git: 'stats' is not a git command. See 'git --help'.
+ 1724  The most similar command is
+ 1725  status
+ 1726  recruit@recruit-Mecer-X102:~$ cd dir "second commit"
+ 1727  bash: cd: too many arguments
+ 1728  recruit@recruit-Mecer-X102:~$ cd "third commit"
+ 1729  bash: cd: third commit: No such file or directory
+ 1730  recruit@recruit-Mecer-X102:~$ cd dir "third commit"
+ 1731  bash: cd: too many argument
+ 1732  mkdir git-basic-exercises
+ 1733  ls
+ 1734  cd git-basic-exercises
+ 1735  ls -a
+ 1736  git init
+ 1737  ls -a
+ 1738  git status
+ 1739  touch README.md
+ 1740  ls -a
+ 1741  git status
+ 1742  git log
+ 1743  git add
+ 1744  git status
+ 1745  echo "# git-basic-exercises" >> README.md
+ 1746  git init
+ 1747  git add README.md
+ 1748  git commit -m "first commit"
+ 1749  git remote add origin https://github.com/SimonZikhali/git-basic-exercises.git
+ 1750  git push -u origin master
+ 1751  git checkout
+ 1752  nano how repo work.md
+ 1753  ls
+ 1754  cd REAME.md
+ 1755  clear
+ 1756  git checkout
+ 1757  nano how repo work.md
+ 1758  git add . && git commit -m "first commit " && git push
+ 1759  git checkout -b 
+ 1760  git checkout -b "how repo work"
+ 1761  git checkout -b "how repo projects work"
+ 1762  touch how repo work
+ 1763  git checkout -b 
+ 1764  nano simon.md
+ 1765  git add . && git commit -m "how repo projects work"
+ 1766  chmod 600 ~/Documents/qwikLABS-L2380-24117366.pem
+ 1767  ssh -i ~/Documents/qwikLABS-L2380-24117366.pem student-04-dca4339b6125@35.202.50.196
+ 1768  chmod 600 ~/Documents/qwikLABS-L2387-24119260.pem
+ 1769  ssh -i ~/Documents/qwikLABS-L2387-24119260.pem student-03-7e41bcd07b35@35.239.196.230
+ 1770  sudo apt update
+ 1771  sudo apt upgrade
+ 1772  chmod 600 ~/Documents/qwikLABS-L2398-24173661.pem
+ 1773  ssh -i ~/Documents/qwikLABS-L2398-24173661.pem student-02-4985605aadea@34.67.213.180
+ 1774  chmod 600 ~/Documents/qwikLABS-L2377-24227784.pem
+ 1775  ssh -i ~/Documents/qwikLABS-L2377-24227784.pem student-02-9c5c6c8c20e4@35.202.83.35
+ 1776  cat oldFiles.txt
+ 1777  mkdir git-basic-exercises
+ 1778  ls
+ 1779  cd git-basic-exercises
+ 1780  ls -a
+ 1781  git init
+ 1782  ls -a
+ 1783  git status
+ 1784  touch README.md
+ 1785  ls -a
+ 1786  git status
+ 1787  git log
+ 1788  git add
+ 1789  git status
+ 1790  git commit -m "initial commit"
+ 1791  git add README.md
+ 1792  git commit -m "first commit"
+ 1793  git log
+ 1794  q
+ 1795  nano README.md
+ 1796  cat README.md
+ 1797  git stats
+ 1798  git commit " second commit"
+ 1799  git commit -m  " second commit"
+ 1800  git commit -m  " third commit"
+ 1801  nano README.md
+ 1802  y
+ 1803  git status
+ 1804  cd dir "second commit"
+ 1805  cd dir "third commit"
+ 1806  git log
+ 1807  q
+ 1808  git checkout
+ 1809  cat README.md
+ 1810  git checkout main
+ 1811  cat README.md
+ 1812  git checkout
+ 1813  git branch
+ 1814  mkdir milkshake-flavours
+ 1815  git branch
+ 1816  cd milkshake-flavours
+ 1817  nano milkshakes.md
+ 1818  git status
+ 1819  git commit -m "added initial flavours"
+ 1820  mkdir history
+ 1821  git log
+ 1822  git branch
+ 1823  cd history > history.txt
+ 1824  history > history.txt
+ 1825  git commit -m "added history"
+ 1826  git log
+ 1827  git commit -m "random readme changes"
+ 1828  ls
+ 1829  cat README.md
+ 1830  cd cat README.md
+ 1831  git commit -m "rewrote readme"
+ 1832  git checkout main
+ 1833  ls
+ 1834  git checkout main
+ 1835  ls
+ 1836  git log
+ 1837  git checkout milkshake-flavours
+ 1838  ls
+ 1839  git log
+ 1840  git checkout history
+ 1841  ls
+ 1842  git log
+ 1843  git checkout main
+ 1844  git merge milkshake-flavours
+ 1845  ls
+ 1846  git log
+ 1847  ls
+ 1848  git log
+ 1849  git checkout history
+ 1850  git log
+ 1851  git checkout milkshake-flavours
+ 1852  git log
+ 1853  git checkout Y
+ 1854  git merge X
+ 1855  history
+ 1856  git log
+ 1857  git-basic-exercises
+ 1858  cd ../
+ 1859  git clone $THE_URL_YOU_JUST_COPIED
+ 1860  git clone https://github.com/Umuzi-org/a-repo-to-clone
+ 1861  cd a-repo-to-clone
+ 1862  git branch
+ 1863  git log
+ 1864  git branch -a
+ 1865  git project/git-basic-exercises
+ 1866  git remote -v
+ 1867  cd project/git-basic-exercises
+ 1868  git log
+ 1869  project/git-basic-exercises
+ 1870  git-basic-exercises
+ 1871  git log
+ 1872  cd
+ 1873  mkdir this-will-be-another-repo
+ 1874  git init
+ 1875  touch README.md
+ 1876  git-basic-exercises
+ 1877  git log
+ 1878  echo "# git_basic_exercises" >> README.md
+ 1879  git init
+ 1880  git add README.md
+ 1881  git commit -m "first commit"
+ 1882  git branch -M main
+ 1883  git remote add origin https://github.com/SimonZikhali/git_basic_exercises.git
+ 1884  git push -u origin main
+ 1885  git init
+ 1886  git add *
+ 1887  git commit -m "second commit"
+ 1888  git push
+ 1889  git init
+ 1890  git add README.md
+ 1891  git commit -m "first commit"
+ 1892  git branch -M main
+ 1893  git add *
+ 1894  git remote add origin https://github.com/SimonZikhali/git_basic_exercises.git
+ 1895  git branch -M main
+ 1896  git push -u origin main
+ 1897  mkdir git-basic-exercise/
+ 1898  mkdir git-basic-exercises
+ 1899  cd git-basic-exercises
+ 1900  git init
+ 1901  touch REAME.md
+ 1902  git add *
+ 1903  git commit -m "initial commit
+ 1904  mkdir git-basic-exercises
+ 1905  chmod 600 ~/Documents/qwikLABS-L2377-24271028.pem
+ 1906  ssh -i ~/Documents/qwikLABS-L2377-24271028.pem student-04-402374e93aae@35.192.204
+ 1907  cd git-basic-exercises
+ 1908  git init
+ 1909  touch README.md
+ 1910  git add .
+ 1911  git commit -m "initial commit"
+ 1912  nano README.md 
+ 1913  git add .
+ 1914  git commit -m "second commit"
+ 1915  nano README.md 
+ 1916  git add .
+ 1917  git commit -m "third commit"
+ 1918  nano README.md 
+ 1919  git add .
+ 1920  git commit -m "third commit"
+ 1921  git log
+ 1922  git checkout 888ff26fff8564f3b779d0e8e5f8be0dcc1b81ce
+ 1923  git checkout master
+ 1924  git branch
+ 1925  git checkout -b milkshake-flavours
+ 1926  git add .
+ 1927  git commit -m "added initial flavours"
+ 1928  git checkout master
+ 1929  history > history.txt
+ 1930  git add . 
+ 1931  git commit -m "added history"
+ 1932  git branch
+ 1933  git checkout milkshake-flavours 
+ 1934  git log
+ 1935  chmod 600 ~/Documents/qwikLABS-L2377-24273016.pem
+ 1936  ssh -i ~/Documents/qwikLABS-L2377-24273016.pem student-04-5caf21680f9b@35.192.130.151
+ 1937  mkdir git-basic-exercises
+ 1938  cd git-basic-exercises
+ 1939  git init
+ 1940  touch README.md
+ 1941  git add .
+ 1942  git commit -m "initial commit"
+ 1943  nano README.md 
+ 1944  git add .
+ 1945  git commit -m "second commit"
+ 1946  nano README.md 
+ 1947  git add .
+ 1948  git commit -m "third commit"
+ 1949  nano README.md 
+ 1950  git add .
+ 1951  git commit -m "third commit"
+ 1952  git checkoutfaa39be69996fcfe8a26faee0cea8373311e1280
+ 1953  git checkout '2681bd37e8dcdbe533e9993b2e31ec7b2cd85caa'
+ 1954  git branch
+ 1955  git checkout -b milkshake-flavours
+ 1956  nano milkshakes.md
+ 1957  git add .
+ 1958  git commit -m "added initial flavours"
+ 1959  git checkout master
+ 1960  git checkout -b history
+ 1961  history > history.txt
+ 1962  git add .
+ 1963  git commit -m "added history"
+ 1964  git branch
+ 1965  git checkout milkshake-flavours 
+ 1966  ls
+ 1967  nano README.md 
+ 1968  chmod 600 ~/Documents/qwikLABS-L2377-24276501.pem
+ 1969  ssh 
+ 1970  chmod 600 ~/Documents/qwikLABS-L2377-24273016.pem
+ 1971  ssh -i ~/Documents/qwikLABS-L2377-24273016.pem student-04-5caf21680f9b@35.192.130.151
+ 1972  git add .
+ 1973  sudo apt update
+ 1974  sudo apt upgrade
+ 1975  mkdir git-basic-exercises
+ 1976  cd git-basic-exercises
+ 1977  git init
+ 1978  touch README.md
+ 1979  git add .
+ 1980  git commit -m "initial commit"
+ 1981  mkdir git-basic-exercises
+ 1982  cd git-basic-exercises
+ 1983  git add .
+ 1984  git init
+ 1985  touch README.md
+ 1986  git add .
+ 1987  git commit -m "initial commit"
+ 1988  nano README.md 
+ 1989  git add .
+ 1990  git commit -m "second commit"
+ 1991  nano README.md 
+ 1992  git add .
+ 1993  git commit -m "third commit"
+ 1994  git log
+ 1995  git checkout 1b65483a55a53f23804dc794742b42b5e6c28152
+ 1996  git checkout master
+ 1997  git branch
+ 1998  git checkout -b milkshake-flavours
+ 1999  nano milkshakes.md
+ 2000  git add .
+ 2001  git commit -m "added initial flavours"
+ 2002  git checkout master
+ 2003  git checkout -b history
+ 2004  history > history.txt
